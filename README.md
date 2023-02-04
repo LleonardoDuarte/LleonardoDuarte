@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**LleonardoDuarte/LleonardoDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+I'm Leonardo and I'm a student in programation focused in JavaScript, I'm beginner but striving a lot.
+
+
+
+
+
+
+- 🌱 I’m currently learning in HTML, CSS, JavaScript and some essencial tools how nodeJs, Ejs, Git, SQL and some other things.
+- ⚡ Fun fact: I'm graduated in physical education but I decided change to programation due to see a lot of opportunities to grow up.
 -->
