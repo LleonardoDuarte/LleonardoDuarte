@@ -1,5 +1,11 @@
 ### Olá, Muito prazer, me chamo leonardo ✌🏿, sinta-se a vontade para conhecer meu portifólio 😁
 
+
+
+
+![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966](https://github.com/LleonardoDuarte/LleonardoDuarte/assets/121827942/e20f104b-7820-4c74-bef1-71e468b4750e)
+
+
 ### Tecnologias que utilizo no dia a dia
 
 <div style="display: inline_block"><br/>
