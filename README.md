@@ -5,6 +5,8 @@
 
 ![Leonardo Github Status](https://github-readme-stats.vercel.app/api?username=LleonardoDuarte&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LleonardoDuarte&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que utilizo no dia a dia
 
 
