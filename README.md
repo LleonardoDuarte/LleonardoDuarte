@@ -1,15 +1,6 @@
 ### Olá, Muito prazer, me chamo leonardo ✌🏿, sinta-se a vontade para conhecer meu portifólio 😁
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pereira-duarte-a15065222/)
-[![Portifólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portifolioleoduarte.netlify.app/)
-
-![Leonardo Github Status](https://github-readme-stats.vercel.app/api?username=LleonardoDuarte&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LleonardoDuarte&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que utilizo no dia a dia
-
-
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,4 +13,10 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
+![Leonardo Github Status](https://github-readme-stats.vercel.app/api?username=LleonardoDuarte&show_icons=true&theme=synthwave) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LleonardoDuarte&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 Cada vez mais apaixonado pelo mundo da programação 🏆
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pereira-duarte-a15065222/)
+[![Portifólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portifolioleoduarte.netlify.app/)
