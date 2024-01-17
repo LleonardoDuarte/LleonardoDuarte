@@ -1,6 +1,6 @@
 ### Olá, Muito prazer, me chamo leonardo ✌🏿, sinta-se a vontade para conhecer meu portifólio 😁
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-pereira-duarte-a15065222)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pereira-duarte-a15065222/)
 [![Portifólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portifolioleoduarte.netlify.app/)
 
 ![Leonardo Github Status](https://github-readme-stats.vercel.app/api?username=LleonardoDuarte&show_icons=true&theme=synthwave)
